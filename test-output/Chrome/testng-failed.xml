@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Chrome]" parallel="none">
+  <test name="TestInChrome(failed)" parallel="none">
+    <classes>
+      <class name="com.nvidia.controller.Test001_Verify_ProductDetails">
+        <methods>
+          <include name="runTest"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.nvidia.controller.Test001_Verify_ProductDetails -->
+    </classes>
+  </test> <!-- TestInChrome(failed) -->
+</suite> <!-- Failed suite [Chrome] -->

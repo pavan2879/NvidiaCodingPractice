@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Chrome" duration-ms="26323" started-at="2019-01-31T07:40:51Z" finished-at="2019-01-31T07:41:18Z">
+    <groups>
+    </groups>
+    <test name="TestInChrome" duration-ms="26323" started-at="2019-01-31T07:40:51Z" finished-at="2019-01-31T07:41:18Z">
+      <class name="com.nvidia.controller.Test001_Verify_ProductDetails">
+        <test-method status="PASS" signature="runTest()[pri:0, instance:com.nvidia.controller.Test001_Verify_ProductDetails@396a51ab]" name="runTest" duration-ms="25516" started-at="2019-01-31T01:40:51Z" finished-at="2019-01-31T01:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.nvidia.controller.Test001_Verify_ProductDetails@396a51ab]" name="closeBrowser" is-config="true" duration-ms="783" started-at="2019-01-31T01:41:17Z" finished-at="2019-01-31T01:41:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.nvidia.controller.Test001_Verify_ProductDetails -->
+    </test> <!-- TestInChrome -->
+  </suite> <!-- Chrome -->
+</testng-results>
